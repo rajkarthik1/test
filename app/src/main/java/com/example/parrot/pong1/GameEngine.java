@@ -61,7 +61,10 @@ public class GameEngine extends SurfaceView implements Runnable {
     // ## GAME STATS - number of lives, score, etc
     // ----------------------------
 
+////
 
+
+    
     public GameEngine(Context context, int w, int h) {
         super(context);
 
